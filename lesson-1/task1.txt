@@ -1,0 +1,25 @@
+//Скриншоты расположены в правильной последовательности сверху вниз (как скриншотилась страница), Каждая из составляющих выделена прямоугольниками разного цвета, в большем прямоугольнике находится меньший и так до самого маленького (это показывает зависимость родитель -> элемент в иерархии). Я не смогу присутствовать на самом занятии, чтобы что-то объяснить, поэтому постарался сделать все интуитивно понятным, надеюсь, что это сработает.//
+
+Site 1: mail.yandex.by
+Links:
+http://joxi.net/52a0aZ7tlDEw7m
+http://joxi.net/52a0aZ7tlDEw7m
+http://joxi.net/52a0aZ7tlDEw7m
+
+Site 2: google.by
+Links:
+http://joxi.net/E2p5j94TvX7gaA
+http://joxi.net/82Q3kN6f8dwO5r
+
+Site 3: https://mychords.net/
+Links:
+http://joxi.net/MAjVy94HdLj6zA
+http://joxi.net/4Akw794fjKoxQA
+
+Site 4: http://joxi.net/MAjVy94HdLj6zA
+Links:
+http://joxi.net/Grq6b94tzYkNOm
+
+Site 5:https://vk.com/login/
+Links:
+http://joxi.net/a2XyqGRsQaDwkA
