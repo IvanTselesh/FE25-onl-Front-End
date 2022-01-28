@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: greenyellow;
+}
+
+.text-card {
+  display: block;
+  max-width: 350px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border:2px solid white;
+}
+
+
+/* Правильный ответ из задачи:
+div {
+  background: #B2D235;
+  padding: 40px;
+  outline: 2px solid #fff; 
+  outline-offset: -20px; 
+ } */

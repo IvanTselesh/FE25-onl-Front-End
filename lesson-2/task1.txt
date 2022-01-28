@@ -1,0 +1,65 @@
+<!-- https://webref.ru/practice/2199 -->
+
+<ol>
+  <li>Half-Life 2: Episode One</li>
+  <li>Half-Life 2: Episode Two</li>
+  <li>Half-Life 2: Episode Three</li>
+</ol>
+
+<!-- https://webref.ru/practice/2198 -->
+
+<ul>
+  <h3>Работы Микеланджело</h3>
+  <li>Бахус</li>
+  <li>Давид</li>
+  <li>Пьета</li>
+</ul>
+
+<!-- https://webref.ru/practice/2204 -->
+
+<ol start='11'> 
+  <li>Николай I</li>
+  <li>Александр II</li>
+  <li>Александр III</li>
+  <li>Николай II</li>
+</ol>
+
+<!-- https://webref.ru/practice/2206 -->
+
+<ul>
+  <li>Российские императоры<ul>
+ 
+   <li>Пётр I Великий</li>
+   <li>Екатерина I</li>
+   <li>Пётр II</li>
+   </ul></li>
+ </ul>
+
+ <!-- https://webref.ru/practice/2449 -->
+
+ ul {
+  list-style-type: square;
+}
+
+<!-- https://webref.ru/practice/2451  -->
+
+ul {
+	list-style-type: none;
+}
+
+li::before{
+  content:"::";
+}
+
+<!-- https://webref.ru/practice/2452  -->
+
+ul {
+  list-style-image:url(/example/image/book.png); 
+}
+
+<!-- https://webref.ru/practice/2453  -->
+
+li {
+  display: inline-block;
+  padding: 10px;
+}
